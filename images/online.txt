@@ -1,0 +1,13 @@
+https://atomurl.net/math/
+https://www.mathpearl.com/
+https://equationeditor.atomurl.net/
+
+
+
+\pi - 3 \approx  0.001001000011..._{(2} \\
+\\
+ = 2^{-3} + 2^{-6} + 2^{-11} + 2^{-12} + ... \\
+\\
+x ^ \pi = x^3 \times x ^ { 2^{-3} + 2^{-6} + 2^{-11} + 2^{-12} + ... } \\
+\\
+=  x^3 \times \sqrt[2^3]{x} \times \sqrt[2^6]{x} \times \sqrt[2^{11}]{x} \times \sqrt[2^{12}]{x} ... \\
